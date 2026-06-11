@@ -1,8 +1,8 @@
-# Tata Consulting UK
+# TCS Labs UK
 
-Welcome to the official GitHub organization profile for **Tata Consulting UK**.
+Welcome to the official GitHub organization profile for **TCS Labs UK**.
 
-Tata Consulting UK represents Tata Group interests in the United Kingdom and supports business growth through strategic advisory and collaboration.
+TCS Labs supports business growth through strategic internal advisory, developer empowerment, innovation encouragement and collaboration.
 
 ## Learn more
 
